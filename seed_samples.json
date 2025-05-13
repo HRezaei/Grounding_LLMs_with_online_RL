@@ -1,0 +1,46 @@
+{
+    "100116": {
+        "board": "WQWQWQWQWQWQWQWQ\nWQ          AQWQ\nWQ  <<        WQ\nWQ        AY  WQ\nWQAP    KP    WQ\nWQAY  AQAQ  BQWQ\nWQAG          WQ\nWQWQWQWQWQWQWQWQ",
+        "mission": "pick up a grey ball"
+    },
+    "697656": {
+        "board": "WQWQWQWQWQWQWQWQ\nWQ  <<    AY  WQ\nWQ          BYWQ\nWQ      BQBPKRWQ\nWQ      AQ    WQ\nWQ          BBWQ\nWQAR  KBBG    WQ\nWQWQWQWQWQWQWQWQ",
+        "mission": "go to the blue box after you pick up the purple box"
+    },
+    "713580": {
+        "board": "WQWQWQWQWQWQWQWQ\nWQAR        ABWQ\nWQ            WQ\nWQBRAB    BQ  WQ\nWQ  BB  AR    WQ\nWQ  BG  KR  ARWQ\nWQ^^          WQ\nWQWQWQWQWQWQWQWQ",
+        "mission": "pick up a red ball, then go to a red ball"
+    },
+    "897807": {
+        "board": "WQWQWQWQWQWQWQWQWQWQWQWQWQWQWQ\nWQ  BR    ^^ABWQ            WQ\nWQAPKY      AQWQ            WQ\nWQ          ABWQ            WQ\nWQ  BGBQ      WQ            WQ\nWQ            WQ            WQ\nWQ      KQ    LY            WQ\nWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQ",
+        "mission": "open the door"
+    },
+    "564973": {
+        "board": "WQWQWQWQWQWQWQWQ\nWQBY      ^^  WQ\nWQ    ABAR  KBWQ\nWQBR  KPAB    WQ\nWQKG        KPWQ\nWQ      BG    WQ\nWQ            WQ\nWQWQWQWQWQWQWQWQ",
+        "mission": "go to a purple key after you pick up the green key"
+    },
+    "783752": {
+        "board": "WQWQWQWQWQWQWQWQ\nWQ      ARAQ  WQ\nWQ          APWQ\nWQ    AYAR    WQ\nWQ  KP    BQ  WQ\nWQAG          WQ\nWQ  AP  ^^    WQ\nWQWQWQWQWQWQWQWQ",
+        "mission": "pick up a red ball"
+    },
+    "375810": {
+        "board": "WQWQWQWQWQWQWQWQ\nWQ    BQBB  KQWQ\nWQ    BGAP    WQ\nWQ          AQWQ\nWQ    AB  BP  WQ\nWQ      KP    WQ\nWQ    VV      WQ\nWQWQWQWQWQWQWQWQ",
+        "mission": "pick up the purple key"
+    },
+    "449082": {
+        "board": "WQWQWQWQWQWQWQWQ\nWQ        KQAYWQ\nWQ      BP    WQ\nWQ  >>        WQ\nWQ    AYARKG  WQ\nWQAY    KYAYKBWQ\nWQ            WQ\nWQWQWQWQWQWQWQWQ",
+        "mission": "put a yellow ball next to the purple box"
+    },
+    "785010": {
+        "board": "WQWQWQWQWQWQWQWQWQWQWQWQWQWQWQ\nWQ  AYARAP    WQ            WQ\nWQ  KQ        WQ            WQ\nWQ            LP            WQ\nWQABBB  <<    WQ            WQ\nWQ          KGWQ            WQ\nWQ      KP  ARWQ            WQ\nWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQ",
+        "mission": "open the purple door"
+    },
+    "920546": {
+        "board": "WQWQWQWQWQWQWQWQ\nWQ    AR    KQWQ\nWQ  KG    >>  WQ\nWQAR  BG      WQ\nWQBP          WQ\nWQ      KY  BYWQ\nWQ    AY  KP  WQ\nWQWQWQWQWQWQWQWQ",
+        "mission": "go to the yellow ball after you pick up the green key"
+    },
+    "505269": {
+        "board": "WQWQWQWQWQWQWQWQWQWQWQWQWQWQWQ\nWQ          AQWQ            WQ\nWQ  KY  KB    WQ            WQ\nWQ  AG  KBAP  WQ            WQ\nWQVV  BG      LY            WQ\nWQ            WQ            WQ\nWQ    KR    BQWQ            WQ\nWQWQWQWQWQWQWQWQWQWQWQWQWQWQWQ",
+        "mission": "open the yellow door"
+    }
+}

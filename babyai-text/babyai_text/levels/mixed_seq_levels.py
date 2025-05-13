@@ -29,6 +29,9 @@ class Level_MixedTrainLocal(LevelGen):
             num_dists=8,
             seed=None
     ):
+        if seed is not None:
+            # Initialize the RNG
+            self.seed(seed=seed)
 
         action = self._rand_elem(['goto', 'pickup', 'open', 'putnext', 'pick up seq go to'])
         if action == 'open':
@@ -265,6 +268,9 @@ class Level_MixedTestLocal(LevelGen):
             num_dists=8,
             seed=None
     ):
+        if seed is not None:
+            # Initialize the RNG
+            self.seed(seed=seed)
 
         action = self._rand_elem(['goto', 'pickup', 'open', 'putnext', 'pick up seq go to'])
         if action == 'open':
