@@ -1,3 +1,29 @@
+# Faster Training for GLAM Using Lookahead LLMs
+
+This fork is enhanced with the integration of Lookahead (LA) language models to improve
+training performance of GLAM. It is part of the ongoing work presented in [this paper](https://openreview.net/pdf?id=D38rTnrkal). 
+As the project is still in development, the integration code has not yet been released. 
+However, you can find the code for implementing LA models on top of nanoGPT, along with their 
+pre-trained weights available on HuggingFace, below.
+
+Four models are introduced in the above paper:
+- [nanoGPTLA](https://huggingface.co/hrezaei/nanoGPTLookAhead)
+- [nanoGPTLAA](https://huggingface.co/hrezaei/nanoGPTLookAheadA)
+- [nanoGPTLAA2](https://huggingface.co/hrezaei/nanoGPTLookAheadA2)
+- [nanoGPTLAE](https://huggingface.co/hrezaei/nanoGPTLookAheadAE)
+
+They are implemented in [this repository](https://github.com/HRezaei/nanoGPT) which is a customized version of [nanoGPT](https://github.com/karpathy/nanoGPT).
+
+The same variations are also implemented in [this fork](https://github.com/HRezaei/transformers/tree/feature/lookahead_models) of Transformers library, on top of [Google-t5/T5](https://github.com/huggingface/transformers/tree/128387757105c7c0b57b519ac2aaff217a20e3f0/src/transformers/models/t5) implementation.
+These models are also trained and published as follows:
+- [T5LA](https://huggingface.co/hrezaei/T5LA)
+- [T5LAA](https://huggingface.co/hrezaei/T5LAA)
+- [T5LAA2](https://huggingface.co/hrezaei/T5LAA2)
+- [T5LAE](https://huggingface.co/hrezaei/T5LAE)
+
+All the above models are on the scale of GPT2 (~100M parameters). The work is in progress to train them on larger scales.
+
+
 # Grounding Large Language Models with Online Reinforcement Learning
 
 This repository contains the code used for our paper [Grounding Large Language Models with Online Reinforcement Learning](https://arxiv.org/abs/2302.02662).
