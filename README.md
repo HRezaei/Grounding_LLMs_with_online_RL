@@ -10,7 +10,7 @@ Four models are introduced in the above paper:
 - [nanoGPTLA](https://huggingface.co/hrezaei/nanoGPTLookAhead)
 - [nanoGPTLAA](https://huggingface.co/hrezaei/nanoGPTLookAheadA)
 - [nanoGPTLAA2](https://huggingface.co/hrezaei/nanoGPTLookAheadA2)
-- [nanoGPTLAE](https://huggingface.co/hrezaei/nanoGPTLookAheadAE)
+- [nanoGPTLAE](https://huggingface.co/hrezaei/nanoGPTLookAheadE)
 
 They are implemented in [this repository](https://github.com/HRezaei/nanoGPT) which is a customized version of [nanoGPT](https://github.com/karpathy/nanoGPT).
 
